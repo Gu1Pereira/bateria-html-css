@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "bateria-html-css",
+			"path": "."
+		},
+		{
+			"name": "sounds",
+			"path": "../../../Users/guilherme.palima2/Downloads/sounds"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bateria-html-css"
+	}
+}
